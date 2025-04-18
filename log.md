@@ -21,10 +21,20 @@
 
 ### Day 1: April 18, Friday
 
-**Today's Progress**: Starting the Odin Project. going through the Fundamentals section.
+**Today's Progress**: Starting the Odin Project. going through the Fundamentals section. Also registered for a Pre-Calc course on Coursera. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Pretty excited overall, i want to do big things and want to be successful in everything that I do. Hopefully this is one of those things. Also gonna try the pomodoro clock thing. seems pretty interesting. Other than that, I gotta stop distractions and remember to not let the monkey take control of my brain. [Procrastination Article](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html) Also want to start doing the 100 Days of Gratitude Thing starting monday.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Odin Project](https://www.theodinproject.com/lessons/foundations-asking-for-help)
+2. [100 Days of Gratitude](https://www.100daysofx.com/challenges/#:~:text=100DaysOfGratitude%20%2D%20instead%20of,to%20gratitude%20thoughts.)
+3. [Coursera Math](https://www.coursera.org/learn/introduction-to-calculus/home/module/1)
+
+
+### Day 2:
+
+**Today's Progress**: 
+
+**Thoughts**
+
+**Link(s) to work**
