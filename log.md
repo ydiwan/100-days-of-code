@@ -31,10 +31,10 @@
 3. [Coursera Math](https://www.coursera.org/learn/introduction-to-calculus/home/module/1)
 
 
-### Day 2:
+### Day 2: April 19, Saturday
 
-**Today's Progress**: 
+**Today's Progress**: Ubuntu setup, more progress on Fundamentals.
 
-**Thoughts**
+**Thoughts** Messed around with getting Ubuntu to dual-boot. Not much luck so ig its VM for now unless someone in the Discord helps out. Idk if i should do a lot or wait until the PC comes to actually get started. Ig i could just work on the math until it comes.
 
-**Link(s) to work**
+**Link(s) to work** [Installation Odin Project](https://www.theodinproject.com/lessons/foundations-installations)
